@@ -2,6 +2,7 @@
   "name": "emosa",
   "version": "0.1.0",
   "description": "Convert github emoji token to unicode",
+  "repository": "mizchi/emosa",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
